@@ -1,0 +1,6 @@
+surya-ocr
+opencv-python
+numpy
+Pillow
+python-docx
+python-docx-replace
